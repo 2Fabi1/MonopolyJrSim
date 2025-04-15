@@ -1,4 +1,4 @@
 # MonopolyJrSim
-Was playing Monopoly Junior on discord camera with my friends, but then I realised, the game basically plays itself... so I made this, to no longer spend 1.5h on moving around pieces and throwing die.
-Required modules: Random, Math, Time
-Modify the time.sleep in print_with_delay function to change the smoothness
+Grałem w Monopoly Junior na kamerze Discord ze znajomymi, ale potem zdałem sobie sprawę, że gra w zasadzie rozgrywa się sama... więc zrobiłem to, żeby nie spędzać już 1,5 godziny na przesuwaniu pionków i rzucaniu kostką.
+Wymagane moduły: Random, Math, Time
+Zmodyfikuj time.sleep w funkcji print_with_delay, aby zmienić płynność
